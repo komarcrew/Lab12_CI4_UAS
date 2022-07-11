@@ -8,4 +8,5 @@ Dosen : Agung Nugroho,S.Kom.,M.Kom. <p>
 
 ## Membuat Sistem Antrian Loket.
 
-Link Dokumentasi : https://drive.google.com/drive/u/0/folders/1aEZeuEeMpfplq4CZHQxFvv0BGCanfzGl <p>
+Link Dokumentasi : <p>
+Link Demo        : <p>
