@@ -1,0 +1,6 @@
+__ci_last_regenerate|i:1657552253;_ci_previous_url|s:48:"http://localhost:8080/index.php/pelayanan/tambah";logged_in|b:1;username|s:5:"komar";nama_lengkap|s:9:"Komarudin";error|s:127:"	<div class="errors" role="alert">
+		<ul>
+					<li>Kode Pelayanan sudah dipakai, mohon pakai kode lain.</li>
+				</ul>
+	</div>
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:2:{s:14:"kode_pelayanan";s:2:"CS";s:14:"nama_pelayanan";s:19:"Costumer Services 2";}}_ci_validation_errors|s:88:"a:1:{s:14:"kode_pelayanan";s:52:"Kode Pelayanan sudah dipakai, mohon pakai kode lain.";}";
